@@ -21,7 +21,7 @@ By html form:
 ## Installation
 ```sh
 $ go get github.com/graph-uk/sesame
-$ go install
+$ go install github.com/graph-uk/sesame
 ```
 Run `sesame.exe` as admin in the directory you want to store the config. Default config will be created.
 
